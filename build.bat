@@ -1,0 +1,1 @@
+start cmd.exe /k "pyinstaller -F --windowed -n Whats-my-IP main.py"
