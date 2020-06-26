@@ -2,6 +2,8 @@
 
 A simple GUI python application to display your public IP addresses (v4 & v6).
 
+![Screenshot](screenshots/screenshot.PNG)
+
 To install dependencies use:
 
 `pip install -r requirements.txt`
