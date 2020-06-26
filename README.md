@@ -10,5 +10,5 @@ To install dependencies use:
 
 ## Download
 
-- [Linux](dist/Whats-my-IP)
-- [Windows](dist/Whats-my-IP.exe) (x64)
+- [Linux](https://github.com/msaarmets/whats-my-ip/raw/master/dist/Whats-my-IP)
+- [Windows](https://github.com/msaarmets/whats-my-ip/raw/master/dist/Whats-my-IP.exe) (x64)
